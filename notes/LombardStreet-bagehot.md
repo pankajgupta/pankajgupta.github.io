@@ -7,7 +7,7 @@ subtitle: By Walter Bagehot
 <!--- ![Book](pic-lombardstreet-book.jpg) --->
 
 <p align="center">
-  <img height="200" src="pic-lombardstreet-book.jpg">
+  <img height="300" src="pic-lombardstreet-book.jpg">
 </p>
 
 ## Lombard Street - A Description of The Money Market
