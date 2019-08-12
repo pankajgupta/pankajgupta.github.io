@@ -1,13 +1,8 @@
 ---
 layout: page
 title: About me
-subtitle: Hi
+subtitle: Hi!
 ---
-
-My name is . 
-
-- 1
-- 2
 
 What else do you need?
 
