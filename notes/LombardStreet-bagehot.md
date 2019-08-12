@@ -4,6 +4,9 @@ title: Lombard Street
 subtitle: By Walter Bagehot
 ---
 
+![Book](pic-lombardstreet-book.jpg)
+
+
 ## Lombard Street - A Description of The Money Market
 ### By Walter Bagehot
 
